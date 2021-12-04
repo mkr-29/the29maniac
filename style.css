@@ -41,7 +41,7 @@ a:hover{
     border-color: greenyellow;
 }
 .all_p{
-    width: 500px;
+    width: 100%;
     color: white;
     text-align: center;
 }
@@ -68,7 +68,7 @@ a:hover{
 }
 .a_button{
     color: white;
-    width: 500px;
+    width: 100%;
 }
 .a_button:hover{
     color: greenyellow;
