@@ -1,0 +1,92 @@
+body{
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(bg3.gif);
+    background-attachment: fixed;
+    background-size: cover;
+    color: greenyellow;
+    text-align: center;
+}
+h1{
+    margin: 10px 0 10px 0;
+    width: 100%;
+    border-style: solid;
+    border-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+h1:hover{
+    border-color: greenyellow;
+    background-color: black;
+    color: greenyellow;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: greenyellow;
+}
+.div_p{
+    border-top: 50px;
+    border-bottom: 50px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    margin: 20px 40px 20px 40px;
+    background: black;
+    font-size: 20px;
+    align-self: center;
+}
+.div_p:hover{
+    border-color: greenyellow;
+}
+.all_p{
+    width: 500px;
+    color: white;
+    text-align: center;
+}
+.all_p:hover{
+    color: greenyellow;
+}
+.button_1{
+    margin-top: 250px;
+    border: 2px solid white;
+    padding: 10px 32px;
+    color: white;
+    border: 2px solid white;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(61, 61, 61);
+    text-decoration: none;
+    display:inline-block;
+    border-radius: 7px;
+}
+.button_1:hover{
+    background-color: black;
+    border-color: greenyellow;
+    color: greenyellow;
+}
+.a_button{
+    color: white;
+    width: 500px;
+}
+.a_button:hover{
+    color: greenyellow;
+}
+.button_main_links{
+    padding: 10px 32px;
+    color: white;
+    border: 2px solid white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+    background-color: rgb(61, 61, 61);
+    text-decoration: none;
+    display:inline-block;
+    border-radius: 7px;
+}
+.button_main_links:hover{
+    background-color: black;
+    border-color: greenyellow;
+    color: greenyellow;
+}
